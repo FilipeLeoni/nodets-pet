@@ -1,5 +1,6 @@
 # NodeTS-pet
-Projeto feito com Typescript, Nodejs e Mustache ensinado no curso da B7WEB.
+Projeto feito com Typescript, Nodejs e Mustache ensinado no curso da B7WEB.<br>
+Deploy feito na Heroku.
 
 ### 🎯 Menu
 
@@ -16,7 +17,7 @@ Projeto feito com Typescript, Nodejs e Mustache ensinado no curso da B7WEB.
 
 <h3 id="start">🚀 Start</h3>
 
-[Click here to open !](https://my-website-six-lemon.vercel.app/) 
+[Click here to open !](https://murmuring-cliffs-50086.herokuapp.com/cats) 
 
 <h3 id="requirements">📍 Pre-requirements</h3>
 
